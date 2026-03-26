@@ -4,12 +4,11 @@ Willkommen im offiziellen Repository für spezialisierte Fach-Apps im Parkettleg
 
 ---
 
-## 📐 1. ParkettRiss (v1.0)
-**Fokus:** Geometrisches Fachzeichnen und präzises Anreißen.
-* **Status:** ✅ Fertiggestellt
-* **Features:** Interaktive Mittelsenkrechte, Fischgrät-Einteilung, technisches Schriftfeld.
+## 📐 1. Geometrische Grundkonstruktionen für Parkettleger (v1.0)
+**Fokus:** Fachzeichenen - geometrische Grundkonstruktionen.
+* **Features:** schrittweise Darstellung der Konstruktionsschritte.
 * **Downloads:**
-  * [⬇️ Windows-Version (.zip)](https://github.com/BSLehrer/Parkettleger-Apps/releases/latest)
+  * [⬇️ Windows-Version (.zip)](https://github.com/BSLehrer/Parkettleger-Apps/releases/download/v2/windows.zip)
   * [📲 Android-App (.apk)](https://github.com/BSLehrer/Parkettleger-Apps/releases/download/v2/Android.zip)
 
 ---
