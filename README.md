@@ -10,7 +10,7 @@ Willkommen im offiziellen Repository für spezialisierte Fach-Apps im Parkettleg
 * **Features:** Interaktive Mittelsenkrechte, Fischgrät-Einteilung, technisches Schriftfeld.
 * **Downloads:**
   * [⬇️ Windows-Version (.zip)](https://github.com/BSLehrer/Parkettleger-Apps/releases/latest)
-  * [📲 Android-App (.apk)](https://github.com/BSLehrer/Parkettleger-Apps/releases/latest)
+  * [📲 Android-App (.apk)](https://github.com/BSLehrer/Parkettleger-Apps/releases/download/v2/Android.zip)
 
 ---
 
