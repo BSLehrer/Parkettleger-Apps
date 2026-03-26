@@ -17,6 +17,9 @@ Willkommen im offiziellen Repository für spezialisierte Fach-Apps im Parkettleg
 **Fokus:** Verschnittberechnung und Materialplanung.
 * **Status:** 🚧 In Entwicklung
 * **Geplante Features:** Raummaß-Eingabe, automatische Paket-Berechnung, Klebermengen-Rechner.
+* **Downloads:**
+  * [⬇️ Windows-Version (.zip)](https://github.com/BSLehrer/Parkettleger-Apps/releases/download/v1/windows.zip)
+  * [📲 Android-App (.apk)](https://github.com/BSLehrer/Parkettleger-Apps/releases/download/v1/Android.zip))
 
 ---
 
