@@ -1,6 +1,6 @@
 # 🪵 Parkettleger-Apps (Suite)
 
-Willkommen im offiziellen Repository für spezialisierte Fach-Apps im Parkettleger-Handwerk. Diese Sammlung bietet digitale Unterstützung für die Ausbildung, die Meisterschule und den täglichen Baustellenbetrieb.
+Willkommen im Repository für spezialisierte Fach-Apps im Parkettleger-Handwerk. Diese Sammlung bietet digitale Unterstützung für die Ausbildung, die Meisterschule und den täglichen Baustellenbetrieb.
 
 ---
 
